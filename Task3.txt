@@ -1,0 +1,17 @@
+БД, вероятно состоит их трех таблиц: одна для продуктов, одна для категорий, и связующая таблица, которая позволяет создать отношения многие ко многим между продуктами и категориями.
+
+Допустим есть следующая структура:
+- Таблица Products, имеющая столбцы ProductID и ProductName.
+- Таблица Categories, имеющая столбцы CategoryID и CategoryName.
+- Связующая таблица ProductCategories, имеющая столбцы ProductID и CategoryID.
+
+Тогда SQL запрос будет иметь следующий вид:
+
+SELECT P.ProductName, C.CategoryName
+FROM Products P
+LEFT JOIN ProductCategories PC ON P.ProductID = PC.ProductID
+LEFT JOIN Categories C ON PC.CategoryID = C.CategoryID
+
+Сначала делаем LEFT JOIN между Products и ProductCategories по полю ProductID, чтобы выбрать все продукты вместе с соответствующими им идентификаторами категорий из связующей таблицы. Затем ещё один LEFT JOIN между результатом предыдущего соединения и таблицей Categories по полю CategoryID, чтобы добавить имена категорий для каждого продукта.
+
+Продукты без категорий будут показаны с CategoryName как NULL.

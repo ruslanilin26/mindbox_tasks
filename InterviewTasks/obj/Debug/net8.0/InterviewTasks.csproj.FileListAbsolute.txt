@@ -1,0 +1,14 @@
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.AssemblyInfo.cs
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\bin\Debug\net8.0\InterviewTasks.exe
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\bin\Debug\net8.0\InterviewTasks.deps.json
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\bin\Debug\net8.0\InterviewTasks.runtimeconfig.json
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\bin\Debug\net8.0\InterviewTasks.dll
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\bin\Debug\net8.0\InterviewTasks.pdb
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.dll
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\refint\InterviewTasks.dll
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.pdb
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\InterviewTasks.genruntimeconfig.cache
+C:\Users\Ruslan\Data\InterviewTasks\InterviewTasks\obj\Debug\net8.0\ref\InterviewTasks.dll
